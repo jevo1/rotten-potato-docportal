@@ -1,7 +1,7 @@
 # Project Homepage > Search and Filtering
 
 <figure>
-![Sign Up Mockup](images/seach-and-filtering.png)
+![Sign Up Mockup](images/search-and-filtering.png)
 </figure>
 
 
