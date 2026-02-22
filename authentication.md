@@ -27,7 +27,6 @@ Key features include:
 | User         | Confirms email                                                         | System activates account and redirects to homepage   |
 
 ---
----
 
 [← Back to Project Homepage](project-homepage.md)
 
