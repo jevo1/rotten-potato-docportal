@@ -1,4 +1,4 @@
-# Internal Code Name
+# Rotten Potato
 **Target:** RP.010.001 (Rotten Potato)
 
 | Revision Date | Document Version | Description | Tracking Notes | Approved By |
