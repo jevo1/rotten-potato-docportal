@@ -3,7 +3,7 @@
 
 | Revision Date | Document Version | Description | Tracking Notes | Approved By |
 | :--- | :---: | :--- | :--- | :--- |
-| 2026-02-13 | v1.0 | Initial project homepage creation | RP-INIT-001 | Arktic Dev Team |
+| 2026-02-13 | v1.0 | Initial project homepage creation | RP-INIT-001 | Cabras, Ark Jeremy C. <br>*Project manger* |
 | ... | ... | ... | ... | ... |
 
 ---
