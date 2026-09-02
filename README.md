@@ -1,3 +1,3 @@
 # Project Homepage
 
-See the full [Project Homepage](project-homepage.md)
+See the full [Project Homepage](./docs/project-homepage.md)
